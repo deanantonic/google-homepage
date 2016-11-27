@@ -28,6 +28,20 @@ ul.header li {
 	display: inline-block;
 }
 
+
+    
+a.sign-in {
+    position: inline-block;
+    color: #fff;
+    cursor: default;
+    text-decoration: none;
+    background: #3c7ae4;
+    border: 1px solid #4285f4;
+    font-weight: bold;
+    padding: 7px 13px;
+    border-radius: 5%;
+}
+
 .main {
 	position: absolute;
 	top: 50%;
